@@ -1,0 +1,18 @@
+body {
+  background-color: #CCC;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.appcontainer {
+  width: 650px;
+  background-color: white;
+  padding: 1em;
+  align-self: stretch;
+}
